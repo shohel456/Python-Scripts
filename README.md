@@ -43,8 +43,6 @@ python Blog_reader.py
 
 * ### Bulk add users to Twitter list
 
-Simple script helps you mass add users to your twitter list to follow (Ex: Bitcoin/Altcoins official account, news, traders...)
-
 - Prepare list screen names
 - Setup your app and get an access token
 
