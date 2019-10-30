@@ -19,15 +19,7 @@ Make sure you've already git installed. Then you can run the following commands 
 OS X, Linux and Windows:
 
 ```bash
-git clone https://github.com/Logan1x/Python-Scripts.git
-cd Python-Scripts/bin
-```
 
-## Scripts
-
-* ### Air Quality Script
-    - This script renders the air quality from the location of the user
-    - The location is fetched using the user's IP address
 
     - This script requires a key from WAQI. 
     - It is free and can be fetched from http://aqicn.org/data-platform/token/#/
